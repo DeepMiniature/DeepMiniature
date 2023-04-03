@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on 
+-- Android app development
+-- Statistics project on cricketers retirement age prediction
+-- Research on the growth of Animation over the years
+- 🌱 I’m currently learning 
+-- Socket Programming in Linux
+-- Android App Development through Flutter
+-- Data Analysis through Python
+- 💬 Ask me about anything related to my projects or even life 😉
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: You can tell me this
